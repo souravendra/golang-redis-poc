@@ -1,1 +1,1 @@
-# Using a Redis cache with Golang backend
+#  Using Redis Cache for Golang REST API
